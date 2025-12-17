@@ -36,7 +36,6 @@ No se trata de una implementación productiva, sino de un ejercicio académico d
 
 ## Estructura del contenido
 actividad-practica-experimental-1-iag-interacciones-sensoriales/
-actividad-practica-experimental-1-iag-interacciones-sensoriales/
 ├── README.md
 ├── versiones/
 │   ├── ape1-iag-interacciones-sensoriales-v1.pdf
@@ -61,5 +60,6 @@ Las distintas versiones del documento reflejan un **proceso iterativo de mejora*
 Este trabajo forma parte de un conjunto de prácticas académicas orientadas a fortalecer competencias en análisis, diseño de sistemas interactivos, pensamiento crítico y aplicación conceptual de tecnologías emergentes en contextos multidisciplinarios.
 
 ---
+
 
 
