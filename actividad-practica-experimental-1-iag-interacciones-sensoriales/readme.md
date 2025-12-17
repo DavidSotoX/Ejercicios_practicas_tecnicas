@@ -43,7 +43,6 @@ actividad-practica-experimental-1-iag-interacciones-sensoriales/
 │   ├── ape1-iag-interacciones-sensoriales-v2.pdf
 │   ├── ape1-iag-interacciones-sensoriales-v3.pdf
 │   └── ape1-iag-interacciones-sensoriales-v4.pdf
-├── recursos/
 
 ## Versiones
 Las distintas versiones del documento reflejan un **proceso iterativo de mejora**, incorporando:
@@ -62,4 +61,5 @@ Las distintas versiones del documento reflejan un **proceso iterativo de mejora*
 Este trabajo forma parte de un conjunto de prácticas académicas orientadas a fortalecer competencias en análisis, diseño de sistemas interactivos, pensamiento crítico y aplicación conceptual de tecnologías emergentes en contextos multidisciplinarios.
 
 ---
+
 
